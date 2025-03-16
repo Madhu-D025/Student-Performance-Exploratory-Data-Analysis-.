@@ -7,6 +7,7 @@ This project aims to analyze key factors influencing student academic performanc
 The Student Performance Dataset contains detailed records of students' academic achievements, demographic attributes, and socio-economic factors that influence their performance. It includes key variables such as student ID, gender, age, study time, parental education level, previous academic scores, attendance, test scores, and extracurricular activities. The dataset provides insights into how various factors, including study habits, parental support, and socio-economic background, impact students' academic outcomes. By analyzing patterns in grades, attendance trends, and subject-wise performance, this dataset serves as a valuable resource for conducting Exploratory Data Analysis (EDA) to identify key predictors of student success and potential areas for academic improvement.
 
 ## Key Features
+<br>
 1) Demographic Information – Includes gender, age, and parental education level, which helps analyze how background influences student performance.
 <br>
 2) Academic Performance – Contains subject-wise test scores, previous academic records, and overall grade percentages, allowing trend analysis of student achievements.
